@@ -1,0 +1,8 @@
+public class Sum1 {
+    public static void main(String args[]){
+        int firstnumber = 10;
+        int secondnumber = 20;
+        int totalsum = firstnumber + secondnumber;
+        System.out.println("The sum is: " + totalsum);
+    }
+}
